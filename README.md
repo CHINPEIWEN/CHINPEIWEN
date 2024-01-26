@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is CHIN PEI WEN
 ====================================================================================================================================
 
-My name is Chin Pei Wen and I'm studying Bioinformatics in UTM.
+
 --
 
-HELLO
+My name is Chin Pei Wen and I'm studying Bioinformatics in UTM.
 
 * 🌍  I'm based in MALAYSIA
 * 🖥️  See my portfolio at [HERE](http://https://github.com/CHINPEIWEN)
