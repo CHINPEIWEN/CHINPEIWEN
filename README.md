@@ -9,7 +9,7 @@ My name is Chin Pei Wen and I'm studying Bioinformatics in UTM.
 * 🌍  I'm based in MALAYSIA
 * 🖥️  See my portfolio at [HERE](http://https://github.com/CHINPEIWEN)
 * ✉️  You can contact me at [chinpeiwen@graduate.utm.my](mailto:chinpeiwen@graduate.utm.my)
-* 🧠  I'm learning C++
+* 🧠  I'm learning C++, Java, HTML, CSS, JavaScript
 
 ### Skills
 
